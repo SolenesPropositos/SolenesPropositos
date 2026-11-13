@@ -284,7 +284,7 @@ const MEMBROS = [
     digitos: "3214109356",
     ddi: "1",
   },
-    {
+  {
     nome: "Lucas Daniel Batista Painço",
     cargo: "Assessor do TEDES",
     area: "Projetos",
@@ -373,7 +373,7 @@ const MEMBROS = [
   },
   {
     nome: "Matheus Cano de Haro Carvalho",
-    cargo: "Assessor de Ritualística",
+    cargo: "Assessor do Cursinho DeMolay",
     area: "Cursinho DeMolay",
     telefone: "(17) 99614-1133",
     digitos: "17996141133",
@@ -387,7 +387,7 @@ const MEMBROS = [
   },
   {
     nome: "Thiago Camargo Machado",
-    cargo: "Assessor de Ritualística",
+    cargo: "Assessor do Cursinho DeMolay",
     area: "Cursinho DeMolay",
     telefone: "(15) 98100-0340",
     digitos: "15981000340",
